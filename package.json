@@ -11,5 +11,11 @@
     "react-native": "^0.71.16",
     "react-native-keyboard-aware-scrollview": "^2.1.0",
     "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.20.0",
+    "@typescript-eslint/parser": "^6.20.0",
+    "eslint": "^8.56.0",
+    "ts-node": "^10.9.2"
   }
 }
